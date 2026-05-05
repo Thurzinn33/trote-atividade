@@ -1,1 +1,0 @@
-Abra o index.html. As imagens estão embutidas no HTML, então não dependem de pasta.
